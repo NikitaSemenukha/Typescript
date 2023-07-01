@@ -1,4 +1,7 @@
 # Typescript
 
+run npm install 
+After
 run tsc
-after run node dist/path_to_file.js
+After 
+run node dist/path_to_file.js
